@@ -1,0 +1,375 @@
+Package: luci-app-bypass
+Version: git-24.295.15368-2e49017
+Depends: libc, ipset, kmod-ipt-nat, ip-full, iptables-mod-tproxy, lua-neturl, dnsmasq-full, smartdns, coreutils, coreutils-base64, curl, tcping, chinadns-ng, lua, luci-compat, luci-lib-ipkg, unzip, shadowsocks-libev-ss-server, shadowsocks-libev-ss-local, shadowsocks-libev-ss-redir, shadowsocksr-libev-ssr-local, shadowsocksr-libev-ssr-redir, shadowsocksr-libev-ssr-server, v2ray-plugin, xray-core, trojan-plus, naiveproxy, kcptun-client, hysteria, redsocks2, microsocks, luci-lua-runtime
+Source: feeds/small/luci-app-bypass
+SourceName: luci-app-bypass
+Section: luci
+SourceDateEpoch: 1729484168
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 382858
+Filename: luci-app-bypass_git-24.295.15368-2e49017_all.ipk
+Size: 383923
+SHA256sum: a313e74a27ada9c0f1209cceb833a7b73a6cec094616e6d10093f4eae879033b
+Description:  SS/SSR/Xray/Trojan/NaiveProxy/Socks5/Tun LuCI interface
+
+Package: luci-app-mihomo
+Version: 1.8.7
+Depends: libc, luci-base, mihomo
+Source: feeds/small/luci-app-mihomo
+SourceName: luci-app-mihomo
+Section: luci
+SourceDateEpoch: 1729484168
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 6140
+Filename: luci-app-mihomo_1.8.7_all.ipk
+Size: 6956
+SHA256sum: 13c5c0f3a4b822c56e1673294b895fe95fb008cdad11a17a872f859d41ccedc5
+Description:  LuCI Support for mihomo
+
+Package: luci-app-mosdns
+Version: 1.5.23
+Depends: libc, mosdns, jsonfilter, luci-compat, curl, v2ray-geoip, v2ray-geosite, v2dat, luci-lua-runtime
+Source: feeds/small/luci-app-mosdns
+SourceName: luci-app-mosdns
+Section: luci
+SourceDateEpoch: 1729484168
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 76038
+Filename: luci-app-mosdns_1.5.23_all.ipk
+Size: 77027
+SHA256sum: aa6c4cfc71e980174a126e5eb8d602d5df7f0866ee7696175d04be341701b7ea
+Description:  LuCI Support for mosdns
+
+Package: luci-app-openclash
+Version: 0.46.033-beta
+Depends: libc, dnsmasq-full, coreutils, coreutils-nohup, bash, curl, ca-certificates, ipset, ip-full, libcap, libcap-bin, libcap-bin, ruby, ruby-yaml, kmod-tun, unzip
+Source: feeds/small/luci-app-openclash
+SourceName: luci-app-openclash
+Section: opt
+SourceDateEpoch: 1729484168
+Maintainer: vernesong
+Architecture: all
+Installed-Size: 6156657
+Filename: luci-app-openclash_0.46.033-beta_all.ipk
+Size: 6133710
+SHA256sum: 0972c18320dcf6ebceb8cb57536ff725d9bd6b4fca5e4179701e26acbdf0403b
+Description:  A LuCI support for clash
+
+Package: luci-app-passwall2
+Version: 1.31-1
+Depends: libc, coreutils, coreutils-base64, coreutils-nohup, curl, ip-full, libuci-lua, lua, luci-compat, luci-lib-jsonc, resolveip, tcping, xray-core, v2ray-geoip, v2ray-geosite, unzip, luci-lua-runtime
+Source: feeds/small/luci-app-passwall2
+SourceName: luci-app-passwall2
+Section: luci
+SourceDateEpoch: 1729484168
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 232603
+Filename: luci-app-passwall2_1.31-1_all.ipk
+Size: 233553
+SHA256sum: eac643b6875a01a5189a8510894e68bbc3660de44d5e2b2273dcf969d16f2d03
+Description:  LuCI support for PassWall 2
+
+Package: luci-app-passwall
+Version: 4.78-3
+Depends: libc, coreutils, coreutils-base64, coreutils-nohup, curl, chinadns-ng, dns2socks, dns2tcp, dnsmasq-full, ip-full, libuci-lua, lua, luci-compat, luci-lib-jsonc, microsocks, resolveip, tcping, luci-lua-runtime
+Source: feeds/small/luci-app-passwall
+SourceName: luci-app-passwall
+Section: luci
+SourceDateEpoch: 1729484168
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 752140
+Filename: luci-app-passwall_4.78-3_all.ipk
+Size: 752740
+SHA256sum: 27c05bbe6ccdcf86b8133073eb8e64fb1802deeac1923cde9d6ddbad0c0b2cd5
+Description:  LuCI support for PassWall
+
+Package: luci-app-ssr-plus
+Version: 188
+Depends: libc, coreutils, coreutils-base64, dns2socks, dns2tcp, dnsmasq-full, ipset, kmod-ipt-nat, ip-full, iptables, iptables-mod-tproxy, lua, lua-neturl, libuci-lua, microsocks, tcping, resolveip, shadowsocksr-libev-ssr-check, uclient-fetch, libustream-openssl20201210, chinadns-ng, mosdns, ipt2socks, kcptun-client, redsocks2, shadowsocks-libev-ss-local, shadowsocks-libev-ss-redir, shadowsocks-libev-ss-server, shadowsocksr-libev-ssr-local, shadowsocksr-libev-ssr-redir, trojan, luci-lua-runtime
+Source: feeds/small/luci-app-ssr-plus
+SourceName: luci-app-ssr-plus
+Section: luci
+SourceDateEpoch: 1729484168
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 279642
+Filename: luci-app-ssr-plus_188_all.ipk
+Size: 280012
+SHA256sum: cb85ca9d1b6b439f10a14a602afb79de1ab10c14c8bbb6839fc4c2042a3f0f85
+Description:  SS/SSR/V2Ray/Trojan/NaiveProxy/Tuic/ShadowTLS/Hysteria/Socks5/Tun LuCI interface
+
+Package: luci-i18n-bypass-zh-cn
+Version: git-24.295.15368-2e49017
+Depends: libc, luci-app-bypass
+Source: feeds/small/luci-app-bypass
+SourceName: luci-i18n-bypass-zh-cn
+Section: luci
+SourceDateEpoch: 1729484168
+Architecture: all
+Installed-Size: 5426
+Filename: luci-i18n-bypass-zh-cn_git-24.295.15368-2e49017_all.ipk
+Size: 6164
+SHA256sum: 38755d517709035f4f5bcc41a9fb70be978370aa4c15da03264ed8f2d7526d8b
+Description:  Translation for luci-app-bypass - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-mihomo-zh-cn
+Version: git-24.295.15368-2e49017
+Depends: libc, luci-app-mihomo
+Source: feeds/small/luci-app-mihomo
+SourceName: luci-i18n-mihomo-zh-cn
+Section: luci
+SourceDateEpoch: 1729484168
+Architecture: all
+Installed-Size: 2889
+Filename: luci-i18n-mihomo-zh-cn_git-24.295.15368-2e49017_all.ipk
+Size: 3620
+SHA256sum: 0de391b659f0630d4b5a854ae2f9330fd9b8de1b8e6091dba2296303d3be11d6
+Description:  Translation for luci-app-mihomo - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-mosdns-zh-cn
+Version: git-24.295.15368-2e49017
+Depends: libc, luci-app-mosdns
+Source: feeds/small/luci-app-mosdns
+SourceName: luci-i18n-mosdns-zh-cn
+Section: luci
+SourceDateEpoch: 1729484168
+Architecture: all
+Installed-Size: 4018
+Filename: luci-i18n-mosdns-zh-cn_git-24.295.15368-2e49017_all.ipk
+Size: 4754
+SHA256sum: ce9e60851eac0e0110ac3c97423d9e93e76e372b1cfd99f1a8b019d4a5dfbaf2
+Description:  Translation for luci-app-mosdns - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-passwall-zh-cn
+Version: git-24.295.15368-2e49017
+Depends: libc, luci-app-passwall
+Source: feeds/small/luci-app-passwall
+SourceName: luci-i18n-passwall-zh-cn
+Section: luci
+SourceDateEpoch: 1729484168
+Architecture: all
+Installed-Size: 13517
+Filename: luci-i18n-passwall-zh-cn_git-24.295.15368-2e49017_all.ipk
+Size: 14246
+SHA256sum: 1d0aeefafc4db5e84bbe7463fcadd3312b8cdf43f390ce9f15cd00ef1958f899
+Description:  Translation for luci-app-passwall - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-passwall2-zh-cn
+Version: git-24.295.15368-2e49017
+Depends: libc, luci-app-passwall2
+Source: feeds/small/luci-app-passwall2
+SourceName: luci-i18n-passwall2-zh-cn
+Section: luci
+SourceDateEpoch: 1729484168
+Architecture: all
+Installed-Size: 12526
+Filename: luci-i18n-passwall2-zh-cn_git-24.295.15368-2e49017_all.ipk
+Size: 13264
+SHA256sum: 16259c1d291169e7aa57c2f09c7be9060db943233b84b13989f1c3469f78bba4
+Description:  Translation for luci-app-passwall2 - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-ssr-plus-zh-cn
+Version: git-24.295.15368-2e49017
+Depends: libc, luci-app-ssr-plus
+Source: feeds/small/luci-app-ssr-plus
+SourceName: luci-i18n-ssr-plus-zh-cn
+Section: luci
+SourceDateEpoch: 1729484168
+Architecture: all
+Installed-Size: 7663
+Filename: luci-i18n-ssr-plus-zh-cn_git-24.295.15368-2e49017_all.ipk
+Size: 8433
+SHA256sum: 357f12e9e978b24316eb9f83da6eb3f43a0b7c77a335544e6893fa31c5cf045a
+Description:  Translation for luci-app-ssr-plus - 简体中文 (Chinese Simplified)
+
+Package: mihomo
+Version: 2024-10-19-95af5f73-1
+Depends: libc, ca-bundle, curl, yq, firewall4, kmod-nft-tproxy, ip-full, kmod-tun, procd-ujail
+Source: feeds/small/mihomo
+SourceName: mihomo
+License: MIT
+Section: net
+Require-User: mihomo=7890:mihomo=7890
+SourceDateEpoch: 1729484168
+Maintainer: Joseph Mory <morytyann@gmail.com>
+Architecture: aarch64_cortex-a53
+Installed-Size: 10102339
+Filename: mihomo_2024-10-19-95af5f73-1_aarch64_cortex-a53.ipk
+Size: 10070310
+SHA256sum: 3c645000913a28dd33310677447e7481a52e4393492010ff73990a7aadc50d8e
+Description:  A rule based proxy in Go.
+
+Package: mosdns
+Version: 5.3.3-2
+Depends: libc, ca-bundle
+Source: feeds/small/mosdns
+SourceName: mosdns
+License: GPL-3.0
+Section: net
+SourceDateEpoch: 1729484168
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: aarch64_cortex-a53
+Installed-Size: 6156202
+Filename: mosdns_5.3.3-2_aarch64_cortex-a53.ipk
+Size: 6137584
+SHA256sum: 37a106cefcffcf46edcfd5801fe2a220525dfca8c5c820ef2940bb3b9f37ff14
+Description:  A plug-in DNS forwarder/splitter
+
+Package: shadow-tls
+Version: 0.2.25-1
+Depends: libc
+Source: feeds/small/shadow-tls
+SourceName: shadow-tls
+License: GPL-3.0
+Section: net
+SourceDateEpoch: 1729484168
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: aarch64_cortex-a53
+Installed-Size: 1975890
+Filename: shadow-tls_0.2.25-1_aarch64_cortex-a53.ipk
+Size: 1967964
+SHA256sum: 1553a2a299d00d13c9c1f2a11d11cf192ed76f267829e5fc860a9aaa09146350
+Description:  A proxy to expose real tls handshake to the firewall.
+
+Package: sing-box
+Version: 1.10.1-1
+Depends: libc, ca-bundle, kmod-inet-diag, kmod-netlink-diag, kmod-tun
+Source: feeds/small/sing-box
+SourceName: sing-box
+License: GPL-3.0-or-later
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1729484168
+Architecture: aarch64_cortex-a53
+Installed-Size: 10113555
+Filename: sing-box_1.10.1-1_aarch64_cortex-a53.ipk
+Size: 10082775
+SHA256sum: b556a968502d532126cda88b8998f721f561bab7b67a40edabe883021b4008e0
+Description:  Sing-box is a universal proxy platform which supports hysteria, SOCKS,
+ Shadowsocks, ShadowTLS, Tor, trojan, VLess, VMess, WireGuard and so on.
+
+Package: v2dat
+Version: 2022-12-15-47b8ee51-1
+Depends: libc
+Source: feeds/small/v2dat
+SourceName: v2dat
+License: GPL-3.0
+Section: utils
+SourceDateEpoch: 1729484168
+Maintainer: sbwml <admin@cooluc.com>
+Architecture: aarch64_cortex-a53
+Installed-Size: 2816594
+Filename: v2dat_2022-12-15-47b8ee51-1_aarch64_cortex-a53.ipk
+Size: 2808589
+SHA256sum: a99df40daa6a8307ebf0c5c32ffede6a3cbffadcc482c0db565eff841c3785ac
+Description:  V2ray geo/ip data unpack tools
+
+Package: v2ray-geoip
+Version: 202410170052-1
+Depends: libc
+Source: feeds/small/v2ray-geodata
+SourceName: v2ray-geoip
+License: CC-BY-SA-4.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1729484168
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: all
+Installed-Size: 3297403
+Filename: v2ray-geoip_202410170052-1_all.ipk
+Size: 3048628
+SHA256sum: cce64df816e7f1c300e6588ebe67b856073463d73624cf5837017e14b8b43893
+Description:  GeoIP List for V2Ray
+
+Package: v2ray-geosite
+Version: 20241013063848-1
+Depends: libc
+Source: feeds/small/v2ray-geodata
+SourceName: v2ray-geosite
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1729484168
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: all
+Installed-Size: 622265
+Filename: v2ray-geosite_20241013063848-1_all.ipk
+Size: 622111
+SHA256sum: b0506a5a460ed479c6d2f10a0d2449ed0fd0645102d62c3ebfa0b834b0b67ea4
+Description:  Geosite List for V2Ray
+
+Package: v2ray-plugin
+Version: 5.17.0-1
+Depends: libc, ca-bundle
+Source: feeds/small/v2ray-plugin
+SourceName: v2ray-plugin
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1729484168
+Maintainer: madeye <max.c.lv@gmail.com>
+Architecture: aarch64_cortex-a53
+Installed-Size: 4996374
+Filename: v2ray-plugin_5.17.0-1_aarch64_cortex-a53.ipk
+Size: 4982371
+SHA256sum: cdbadbfc1785501f46cc719c2ff3ef70ef7f2e971e68906ef4e410278ca6abc9
+Description:  SIP003 plugin for shadowsocks, based on v2ray
+
+Package: v2raya
+Version: 2.2.6-1
+Depends: libc, ca-bundle, kmod-nft-tproxy, xray-core
+Source: feeds/small/v2raya
+SourceName: v2raya
+License: AGPL-3.0-only
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1729484168
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: aarch64_cortex-a53
+Installed-Size: 11295249
+Filename: v2raya_2.2.6-1_aarch64_cortex-a53.ipk
+Size: 11262637
+SHA256sum: cd309ea1aa1a1b5f635d501d93474476368976e29ab8a621e610ccb2eada91d3
+Description:  v2rayA is a V2Ray Linux client supporting global transparent proxy,
+ compatible with SS, SSR, Trojan(trojan-go), PingTunnel protocols.
+
+Package: xray-core
+Version: 24.9.30-1
+Depends: libc, ca-bundle
+Source: feeds/small/xray-core
+SourceName: xray-core
+License: MPL-2.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1729484168
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: aarch64_cortex-a53
+Installed-Size: 9675355
+Filename: xray-core_24.9.30-1_aarch64_cortex-a53.ipk
+Size: 9645160
+SHA256sum: 3cc798aa0fefc846efdc04964247fc3a7216196d3629cdaa499c37e3a9d61176
+Description:  Xray, Penetrates Everything. It helps you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+
+Package: xray-plugin
+Version: 1.8.24-1
+Depends: libc, ca-bundle
+Source: feeds/small/xray-plugin
+SourceName: xray-plugin
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1729484168
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: aarch64_cortex-a53
+Installed-Size: 6484159
+Filename: xray-plugin_1.8.24-1_aarch64_cortex-a53.ipk
+Size: 6464253
+SHA256sum: 0957d6a8ab2ae982698617bd6a0b6431587003ac3fbd6cef31ace99b27de6f3a
+Description:  SIP003 plugin for Shadowsocks, based on Xray
+
