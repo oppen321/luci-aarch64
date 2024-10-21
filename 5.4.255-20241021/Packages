@@ -1,0 +1,24 @@
+Package: mihomo_1
+Filename: mihomo_1.18.9-9_aarch64_cortex-a53.ipk
+Version: 1.0
+Architecture: all
+
+Package: luci-app-ssr-plus_git-25
+Filename: luci-app-ssr-plus_git-25.287.56327-cfef80f_all.ipk
+Version: 1.0
+Architecture: all
+
+Package: luci-app-passwall2_git-25
+Filename: luci-app-passwall2_git-25.284.45216-8031448_all.ipk
+Version: 1.0
+Architecture: all
+
+Package: luci-app-mihomo_git-25
+Filename: luci-app-mihomo_git-25.291.56334-7a091f2_all.ipk
+Version: 1.0
+Architecture: all
+
+Package: luci-app-passwall_git-25
+Filename: luci-app-passwall_git-25.288.56341-2784892_all.ipk
+Version: 1.0
+Architecture: all
