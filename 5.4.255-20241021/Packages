@@ -285,19 +285,14 @@ Description:  A SOCKS5 service that you can run on your remote boxes to tunnel c
  through them, if for some reason SSH doesn't cut it for you.
 
 Package: mihomo
-Filename: mihomo_2024-10-12-ca3f1eba-1_aarch64_cortex-a53.ipk
 Version: 2024-10-12-ca3f1eba-1
 Depends: libc, ca-bundle, curl, yq, firewall4, kmod-nft-tproxy, ip-full, kmod-tun, procd-ujail
-Source: https://ghp.ci/raw.githubusercontent.com/oppen321/luci-aarch64/blob/main/5.4.255-20241021/mihomo_2024-10-12-ca3f1eba-1_aarch64_cortex-a53.ipk
-SourceName: mihomo
 License: MIT
 Section: net
-Require-User: mihomo=7890:mihomo=7890
-SourceDateEpoch: 1729170763
-Maintainer: Joseph Mory <morytyann@gmail.com>
 Architecture: aarch64_cortex-a53
 Installed-Size: 10100125
-Description:  A rule based proxy in Go.
+Filename: mihomo_2024-10-12-ca3f1eba-1_aarch64_cortex-a53.ipk
+Description: A rule based proxy in Go.
 
 Package: mosdns_5.3.3-2_aarch64_cortex-a53.ipk
 Package: mosdns
