@@ -1,0 +1,949 @@
+Package: bash
+Version: 5.2.15-1
+Depends: libc, libncurses6, libreadline8
+License: GPL-3.0-or-later
+Section: utils
+CPE-ID: cpe:/a:gnu:bash
+Architecture: aarch64_cortex-a53
+Installed-Size: 472159
+Filename: bash_5.2.15-1_aarch64_cortex-a53.ipk
+Size: 472439
+SHA256sum: 6549d78103c9dbbb257c51cdb69e05d112ce6782f2b4e652fb494a1f06e7ab8a
+Description:  Bash is an sh-compatible command language interpreter that executes
+ commands read from the standard input or from a file. Bash also
+ incorporates useful features from the Korn and C shells (ksh and csh).
+
+Package: cgi-io
+Version: 2022-08-10-901b0f04-21
+Depends: libc, libubox20240329, libubus20241020
+License: GPL-2.0-or-later
+Section: net
+Architecture: aarch64_cortex-a53
+Installed-Size: 9586
+Filename: cgi-io_2022-08-10-901b0f04-21_aarch64_cortex-a53.ipk
+Size: 10258
+SHA256sum: fc1e6d5e6b8212901fff1918b438aec8ca40ad0e7a43a9f7bfa3febd36f5de9b
+Description:  This package contains an cgi utility that is useful for up/downloading files
+
+Package: collectd-mod-cpu
+Version: 5.12.0-9
+Depends: libc, collectd
+Section: utils
+CPE-ID: cpe:/a:collectd:collectd
+Architecture: aarch64_cortex-a53
+Installed-Size: 4436
+Filename: collectd-mod-cpu_5.12.0-9_aarch64_cortex-a53.ipk
+Size: 5033
+SHA256sum: 988a3abbb02818fe98ce7525184482b93bde0dd902cc37c39b2d8283ee7f42ab
+Description:  CPU input plugin
+
+Package: collectd-mod-interface
+Version: 5.12.0-9
+Depends: libc, collectd
+Section: utils
+CPE-ID: cpe:/a:collectd:collectd
+Architecture: aarch64_cortex-a53
+Installed-Size: 4183
+Filename: collectd-mod-interface_5.12.0-9_aarch64_cortex-a53.ipk
+Size: 4772
+SHA256sum: 7ceb6b570d51fcde4b0cd35e0800eb2e7a2f075a92416b5be58202263a34f8bd
+Description:  network interfaces input plugin
+
+Package: collectd-mod-iwinfo
+Version: 5.12.0-9
+Depends: libc, collectd, libiwinfo20230701
+Section: utils
+CPE-ID: cpe:/a:collectd:collectd
+Architecture: aarch64_cortex-a53
+Installed-Size: 4310
+Filename: collectd-mod-iwinfo_5.12.0-9_aarch64_cortex-a53.ipk
+Size: 4916
+SHA256sum: 3aeea6ea7c757d79f76126cde6e87e8fb15de607f2729b578ca29f9a1a316d9b
+Description:  libiwinfo wireless statistics plugin
+
+Package: collectd-mod-load
+Version: 5.12.0-9
+Depends: libc, collectd
+Section: utils
+CPE-ID: cpe:/a:collectd:collectd
+Architecture: aarch64_cortex-a53
+Installed-Size: 2329
+Filename: collectd-mod-load_5.12.0-9_aarch64_cortex-a53.ipk
+Size: 2960
+SHA256sum: cc08b944a0684cfaaef2e03ba7b9be4f5b86d639fc44be2bfa454dff07f5d871
+Description:  system load input plugin
+
+Package: collectd-mod-memory
+Version: 5.12.0-9
+Depends: libc, collectd
+Section: utils
+CPE-ID: cpe:/a:collectd:collectd
+Architecture: aarch64_cortex-a53
+Installed-Size: 3000
+Filename: collectd-mod-memory_5.12.0-9_aarch64_cortex-a53.ipk
+Size: 3623
+SHA256sum: 465da4f7761ed023d048bd047a12ac14344c5bceb9d79bbe1f5973c25d90f787
+Description:  physical memory usage input plugin
+
+Package: collectd-mod-network
+Version: 5.12.0-9
+Depends: libc, collectd
+Section: utils
+CPE-ID: cpe:/a:collectd:collectd
+Architecture: aarch64_cortex-a53
+Installed-Size: 15537
+Filename: collectd-mod-network_5.12.0-9_aarch64_cortex-a53.ipk
+Size: 16152
+SHA256sum: 94aaf88c425828e7084ab11d210dd972dd35ce7906aaa4e0ce7bbd527397b78f
+Description:  network input/output plugin
+
+Package: collectd-mod-rrdtool
+Version: 5.12.0-9
+Depends: libc, collectd, librrd1
+Section: utils
+CPE-ID: cpe:/a:collectd:collectd
+Architecture: aarch64_cortex-a53
+Installed-Size: 11671
+Filename: collectd-mod-rrdtool_5.12.0-9_aarch64_cortex-a53.ipk
+Size: 12302
+SHA256sum: 3f46a4dee478abbb1b63d3e9f4ce5e73eabb86ea71e2df31db87426e98bb4d74
+Description:  RRDtool output plugin
+
+Package: collectd
+Version: 5.12.0-9
+Depends: libc, libpthread, zlib, libltdl7, libip4tc2, jshn
+Section: utils
+CPE-ID: cpe:/a:collectd:collectd
+Architecture: aarch64_cortex-a53
+Installed-Size: 94122
+Filename: collectd_5.12.0-9_aarch64_cortex-a53.ipk
+Size: 94769
+SHA256sum: 47e1aa78c6a0c5d399e9c727082e0b6ef93fbf782d701791cbaae599ef9ad3fa
+Description:  collectd is a small daemon which collects system information periodically
+ and provides mechanismns to store the values in a variety of ways.
+
+Package: coremark
+Version: 2022-07-27-eefc986e-1
+Depends: libc
+License: Apache-2.0
+Section: utils
+Architecture: aarch64_cortex-a53
+Installed-Size: 10725
+Filename: coremark_2022-07-27-eefc986e-1_aarch64_cortex-a53.ipk
+Size: 11331
+SHA256sum: 97230d6307fa4f515f7224462058e7805c6c73cb513e7fe6c2bbcb752f10b5f9
+Description:  Embedded Microprocessor Benchmark
+
+Package: coreutils-base64
+Version: 9.3-1
+Depends: libc, coreutils
+Alternatives: 300:/bin/base64:/usr/libexec/base64-coreutils
+License: GPL-3.0-or-later
+Section: utils
+CPE-ID: cpe:/a:gnu:coreutils
+Architecture: aarch64_cortex-a53
+Installed-Size: 24455
+Filename: coreutils-base64_9.3-1_aarch64_cortex-a53.ipk
+Size: 25123
+SHA256sum: b3b239188c821adfeafdce74388c88bc822e86fca53088af23c8d70d106f4410
+Description:  Full version of standard GNU base64 utility.
+
+Package: coreutils-nohup
+Version: 9.3-1
+Depends: libc, coreutils
+Alternatives: 300:/usr/bin/nohup:/usr/libexec/nohup-coreutils
+License: GPL-3.0-or-later
+Section: utils
+CPE-ID: cpe:/a:gnu:coreutils
+Architecture: aarch64_cortex-a53
+Installed-Size: 23128
+Filename: coreutils-nohup_9.3-1_aarch64_cortex-a53.ipk
+Size: 23809
+SHA256sum: 9493de8e380af32324f1347b054e6d35c82c6aaaedf0f630113da4d80c83adda
+Description:  Full version of standard GNU nohup utility.
+
+Package: coreutils-stty
+Version: 9.3-1
+Depends: libc, coreutils
+Alternatives: 300:/bin/stty:/usr/libexec/stty-coreutils
+License: GPL-3.0-or-later
+Section: utils
+CPE-ID: cpe:/a:gnu:coreutils
+Architecture: aarch64_cortex-a53
+Installed-Size: 32569
+Filename: coreutils-stty_9.3-1_aarch64_cortex-a53.ipk
+Size: 33022
+SHA256sum: 91f1cfaa193a2323e0443597232c4ee7d5f69450496918491f2fecaf6dc9f452
+Description:  Full version of standard GNU stty utility.
+
+Package: coreutils
+Version: 9.3-1
+Depends: libc
+License: GPL-3.0-or-later
+Section: utils
+CPE-ID: cpe:/a:gnu:coreutils
+Architecture: aarch64_cortex-a53
+Installed-Size: 96
+Filename: coreutils_9.3-1_aarch64_cortex-a53.ipk
+Size: 973
+SHA256sum: 3b31d5cbfcc08f5008cfd8749436c4cca34fa54909e9951c061abc0f1f716b34
+Description:  Full versions of standard GNU utilities. If an equivalent Busybox applet is
+ available, you should consider compiling that instead as Busybox applets are
+ usually smaller, at the expense of reduced functionality.
+
+Package: curl
+Version: 8.6.0-1
+Depends: libc, libcurl4
+License: MIT
+Section: net
+CPE-ID: cpe:/a:haxx:libcurl
+Architecture: aarch64_cortex-a53
+Installed-Size: 63407
+Filename: curl_8.6.0-1_aarch64_cortex-a53.ipk
+Size: 64047
+SHA256sum: 98c733e37faeacb26068c0274a43ed1cb03b7cb4b23677076c0071990e8ec9bf
+Description:  A client-side URL transfer utility
+
+Package: ddns-scripts-services
+Version: 2.8.2-49
+Depends: libc
+Provides: ddns-scripts_service
+License: GPL-2.0
+Section: net
+Architecture: all
+Installed-Size: 3979
+Filename: ddns-scripts-services_2.8.2-49_all.ipk
+Size: 4608
+SHA256sum: b56c3fbcf4c83ea7f415db6b235405aa3f3e58dc71037399664085ec90ca71fb
+Description:  Dynamic DNS Client definitions for supported services
+
+Package: ddns-scripts
+Version: 2.8.2-49
+Depends: libc, ddns-scripts-services
+License: GPL-2.0
+Section: net
+Architecture: all
+Installed-Size: 26726
+Filename: ddns-scripts_2.8.2-49_all.ipk
+Size: 27819
+SHA256sum: 41c6801dab5a7de6dd481e1d5004d22886c420c81720c58f8df11b746d2723cf
+Description:  Dynamic DNS Client scripts (with IPv6 support)
+ A highly configurable set of scripts for doing dynamic dns updates.
+ - IPv6 support
+ - DNS server support
+ - Glue Record support (require BIND host or KNOT host)
+ - DNS requests via TCP
+ - Proxy server support
+ - log file support
+ - support to run once
+ Version: 2.8.2-49
+ Info   : https://openwrt.org/docs/guide-user/services/ddns/client
+
+Package: etherwake
+Version: 1.09-5
+Depends: libc
+Section: net
+Architecture: aarch64_cortex-a53
+Installed-Size: 5606
+Filename: etherwake_1.09-5_aarch64_cortex-a53.ipk
+Size: 6356
+SHA256sum: a4e8299b4c2a8269593cef239f0a42db188882f0c4e6184c643af3ed2e36653e
+Description:  You can wake up WOL compliant Computers which have been powered down to
+ sleep mode or start WOL compliant Computers with a BIOS feature.
+ WOL is an abbreviation for Wake-on-LAN. It is a standard that allows you
+ to turn on a computer from another location over a network connection.
+ ether-wake also supports WOL passwords.
+
+Package: haproxy
+Version: 2.8.5-1
+Depends: libc, libpcre, libltdl7, zlib, libpthread, liblua5.3-5.3, libopenssl3, libncurses6, libreadline8, libatomic1
+License: GPL-2.0-only
+Section: net
+CPE-ID: cpe:/a:haproxy:haproxy
+Architecture: aarch64_cortex-a53
+Installed-Size: 1106756
+Filename: haproxy_2.8.5-1_aarch64_cortex-a53.ipk
+Size: 1105203
+SHA256sum: 25dc99c4a9f7c08cff73d791ba554069d3e70771a82d95aeeb62070a1645dabc
+Description:  Open source Reliable, High Performance TCP/HTTP Load Balancer.
+ This package is built with SSL and LUA support.
+
+Package: htop
+Version: 3.3.0-1
+Depends: libc, libncurses6
+License: GPL-2.0-or-later
+Section: admin
+CPE-ID: cpe:/a:htop:htop
+Architecture: aarch64_cortex-a53
+Installed-Size: 115927
+Filename: htop_3.3.0-1_aarch64_cortex-a53.ipk
+Size: 116661
+SHA256sum: 21fe1f4d72c554cd0741864e865fffd5dadc797a6d87421fcf4eb210d4e14978
+Description:  Htop is an ncursed-based process viewer similar to top, but
+ it allows to scroll the list vertically and horizontally to
+ see all processes and their full command lines.
+
+Package: kcptun-client
+Version: 20230207-1
+Depends: libc, kcptun-config
+License: MIT
+Section: net
+Architecture: aarch64_cortex-a53
+Installed-Size: 2830575
+Filename: kcptun-client_20230207-1_aarch64_cortex-a53.ipk
+Size: 2819903
+SHA256sum: 5ed57baea30805094b85b2c66b770dd6dbd1012a233f86243dc70c3a1af120f3
+Description:  kcptun is a Stable & Secure Tunnel Based On KCP with N:M Multiplexing.
+ This package only contains kcptun client.
+
+Package: kcptun-config
+Version: 20230207-1
+Depends: libc
+License: MIT
+Section: net
+Architecture: aarch64_cortex-a53
+Installed-Size: 1985
+Filename: kcptun-config_20230207-1_aarch64_cortex-a53.ipk
+Size: 2799
+SHA256sum: 8ea2db7bbfd3ba806029bd59c2566eda6b23c904fdbc17ecba198a37526dcd9a
+Description:  Kcptun Config Scripts
+
+Package: libacl
+Version: 2.3.1-2
+Depends: libc, libattr
+License: LGPL-2.1 GPL-2.0
+Section: libs
+Architecture: aarch64_cortex-a53
+Installed-Size: 12526
+Filename: libacl_2.3.1-2_aarch64_cortex-a53.ipk
+Size: 13152
+SHA256sum: 016996e4773871b634f13c4eecbb6adc50eb026d4ba464e04e981d7319927160
+Description:  Access control list support
+ This package provides libacl
+
+Package: libattr
+Version: 2.5.1-1
+Depends: libc
+License: LGPL-2.1-or-later
+Section: libs
+Architecture: aarch64_cortex-a53
+Installed-Size: 6856
+Filename: libattr_2.5.1-1_aarch64_cortex-a53.ipk
+Size: 7593
+SHA256sum: b5ab9746c95bc22695c3e3fac521bf6d13702a6ed54de180893a719d7765a960
+Description:  Extended attributes support
+ This package provides libattr
+
+Package: libcares
+Version: 1.18.1-1
+Depends: libc
+License: MIT
+Section: libs
+CPE-ID: cpe:/a:c-ares_project:c-ares
+Architecture: aarch64_cortex-a53
+Installed-Size: 38417
+Filename: libcares_1.18.1-1_aarch64_cortex-a53.ipk
+Size: 39021
+SHA256sum: 9cdfa81e1c002c5d22ebc452cca4ab0084fb7739118de3782fc6ac3d20123036
+Description:  c-ares is a C library for asynchronous DNS requests (including name resolves)
+ 
+ C89 compatibility, MIT licensed, builds for and runs on POSIX, Windows,
+ Netware, Android and many more operating systems.
+ 
+
+Package: libcurl4
+Version: 8.6.0-1
+Depends: libc, libopenssl3, libnghttp2-14, ca-bundle
+Provides: libcurl
+License: MIT
+Section: libs
+ABIVersion: 4
+CPE-ID: cpe:/a:haxx:libcurl
+Architecture: aarch64_cortex-a53
+Installed-Size: 213151
+Filename: libcurl4_8.6.0-1_aarch64_cortex-a53.ipk
+Size: 213858
+SHA256sum: fe74f94ceebe385eb60a279a0b0c600d28b8cf7139cb4a8c208f9e886e1623a6
+Description:  A client-side URL transfer library
+
+Package: libev
+Version: 4.33-1
+Depends: libc
+License: BSD-2-Clause
+Section: libs
+Architecture: aarch64_cortex-a53
+Installed-Size: 23765
+Filename: libev_4.33-1_aarch64_cortex-a53.ipk
+Size: 24482
+SHA256sum: bf36bce90cb7a07561d50bb421d464ab193ee745199d57eb4dc9c83953a14e9a
+Description:  A full-featured and high-performance event loop that is loosely modelled after
+ libevent, but without its limitations and bugs.
+
+Package: liblzma
+Version: 5.4.1-1
+Depends: libc, libpthread
+License: Public-Domain LGPL-2.1-or-later GPL-2.0-or-later GPL-3.0-or-later
+Section: libs
+CPE-ID: cpe:/a:tukaani:xz
+Architecture: aarch64_cortex-a53
+Installed-Size: 66283
+Filename: liblzma_5.4.1-1_aarch64_cortex-a53.ipk
+Size: 66814
+SHA256sum: e0b9e17ad7a4fcf26cd9de8261fe62cf179b94bb540801ce037568d15eea708a
+Description:  liblzma library from XZ Utils
+
+Package: libnghttp2-14
+Version: 1.63.0-1
+Depends: libc
+Provides: libnghttp2
+License: MIT
+Section: libs
+ABIVersion: -14
+CPE-ID: cpe:/a:nghttp2:nghttp2
+Architecture: aarch64_cortex-a53
+Installed-Size: 74593
+Filename: libnghttp2-14_1.63.0-1_aarch64_cortex-a53.ipk
+Size: 73578
+SHA256sum: 9caa56468dc5054e8428fe81fed6576b0495114cae4f569f7593cc342463f26c
+Description:  C library implementing the framing layer of the HTTP/2 protocol. It can be used to build a HTTP/2-capable HTTP client or server
+
+Package: libpcre2
+Version: 10.42-1
+Depends: libc
+License: BSD-3-Clause
+Section: libs
+CPE-ID: cpe:/a:pcre:pcre
+Architecture: aarch64_cortex-a53
+Installed-Size: 115262
+Filename: libpcre2_10.42-1_aarch64_cortex-a53.ipk
+Size: 115896
+SHA256sum: b85516d2aa246c0a5abad2f0dceb2a0e405cbd50da3ad4a6a662e82adfcdaeed
+Description:  A Perl Compatible Regular Expression library
+
+Package: librrd1
+Version: 1.0.50-5
+Depends: libc, zlib
+Section: libs
+Architecture: aarch64_cortex-a53
+Installed-Size: 141317
+Filename: librrd1_1.0.50-5_aarch64_cortex-a53.ipk
+Size: 142138
+SHA256sum: 414804f1d962253330ad794672b81b9b4fdb45c94e452326b7bdc33ea69c0720
+Description:  RRD is the Acronym for Round Robin Database. RRD is a system to store and
+ display time-series data (i.e. network bandwidth, machine-room temperature,
+ server load average). It stores the data in a very compact way that will
+ not expand over time, and it presents useful graphs by processing the data
+ to enforce a certain data density. It can be used either via simple wrapper
+ scripts (from shell or Perl) or via frontends that poll network devices and
+ put friendly user interface on it.
+ 
+ This is version 1.0.x with cgilib-0.4, gd1.3 and libpng-1.0.9 linked into
+ librrd.so. The library is much smaller compared to the 1.2.x version with
+ separate dynamic linked libraries.
+ This package contains a shared library, used by other programs.
+
+Package: libruby3.1
+Version: 3.1.3-1
+Depends: libc, libpthread, librt, libgmp10, zlib
+Provides: libruby
+License: BSD-2-Clause
+Section: libs
+ABIVersion: 3.1
+CPE-ID: cpe:/a:ruby-lang:ruby
+Architecture: aarch64_cortex-a53
+Installed-Size: 1186366
+Filename: libruby3.1_3.1.3-1_aarch64_cortex-a53.ipk
+Size: 1182228
+SHA256sum: b6ed9ac2323b78cb6dca61962a39d73b9eb97c12ef3ff021088169c496150db6
+Description:  Ruby scripting language (shared library)
+
+Package: libsodium
+Version: 1.0.18-4
+Depends: libc
+License: ISC
+Section: libs
+Architecture: aarch64_cortex-a53
+Installed-Size: 106074
+Filename: libsodium_1.0.18-4_aarch64_cortex-a53.ipk
+Size: 106904
+SHA256sum: a1d139984797ca75179f71814aff61eed49a0682f9437d44ff231f4cf790609a
+Description:  NaCl (pronounced "salt") is a new easy-to-use high-speed software library for network communication, encryption, decryption, signatures, etc.
+ NaCl's goal is to provide all of the core operations needed to build higher-level cryptographic tools.
+ Sodium is a portable, cross-compilable, installable, packageable fork of NaCl (based on the latest released upstream version nacl-20110221), with a compatible API.
+ The design choices, particularly in regard to the Curve25519 Diffie-Hellman function, emphasize security (whereas NIST curves emphasize "performance" at the cost of security), and "magic constants" in NaCl/Sodium have clear rationales.
+ The same cannot be said of NIST curves, where the specific origins of certain constants are not described by the standards.
+ And despite the emphasis on higher security, primitives are faster across-the-board than most implementations of the NIST standards.
+
+Package: libudns
+Version: 0.4-1
+Depends: libc
+License: LGPL-2.1
+Section: libs
+Architecture: aarch64_cortex-a53
+Installed-Size: 20053
+Filename: libudns_0.4-1_aarch64_cortex-a53.ipk
+Size: 20710
+SHA256sum: 69fcaab1f6e8eacd225afc1b7ee3f358fee983246237144c2b49de47352f8f58
+Description:  UDNS is a stub DNS resolver library with ability to perform both syncronous
+ and asyncronous DNS queries.
+
+Package: libuv1
+Version: 1.48.0-1
+Depends: libc, libpthread, librt
+Provides: libuv
+License: MIT
+Section: libs
+ABIVersion: 1
+CPE-ID: cpe:/a:libuv_project:libuv
+Architecture: aarch64_cortex-a53
+Installed-Size: 75421
+Filename: libuv1_1.48.0-1_aarch64_cortex-a53.ipk
+Size: 75992
+SHA256sum: 90ddf4128bcbc76a95d4ccbba336a73fcd03588a5e43fb61e910d6505564552f
+Description:  libuv is a multi-platform support library with a focus on asynchronous I/O. It
+ was primarily developed for use by Node.js, but it's also used by Luvit, Julia,
+ pyuv, and others.
+
+Package: libwebsockets-full
+Version: 4.3.2-3
+Depends: libc, zlib, libcap, libubox20240329, libopenssl3, libuv1
+Provides: libwebsockets, libwebsockets-openssl
+License: MIT
+Section: libs
+Architecture: aarch64_cortex-a53
+Installed-Size: 201889
+Filename: libwebsockets-full_4.3.2-3_aarch64_cortex-a53.ipk
+Size: 202177
+SHA256sum: 0f127a3cf754363ffab284930b6c4dd267ddf4d14299049c4db57e3b5d742ccf
+Description:  libwebsockets (Full - OpenSSL, libuv, plugins, CGI)
+
+Package: libyaml
+Version: 0.2.5-1
+Depends: libc
+License: MIT
+Section: libs
+CPE-ID: cpe:/a:pyyaml_project:pyyaml
+Architecture: aarch64_cortex-a53
+Installed-Size: 41069
+Filename: libyaml_0.2.5-1_aarch64_cortex-a53.ipk
+Size: 41787
+SHA256sum: 15b9866f190b9b260e579c911f9feabac5cde485e769e20b1f2f2bfdfddb16cd
+Description:  Fast YAML 1.1 parser and emitter library
+
+Package: libzstd
+Version: 1.5.6-1
+Depends: libc
+License: GPL-2.0-or-later
+Section: libs
+Architecture: aarch64_cortex-a53
+Installed-Size: 339832
+Filename: libzstd_1.5.6-1_aarch64_cortex-a53.ipk
+Size: 340020
+SHA256sum: 183841ba23c58fde2a71366a53240fd16aebb1bf2700357efbb317279fa81dc7
+Description:  Zstandard - Fast real-time compression algorithm.
+ This package provides libzstd library.
+
+Package: miniupnpd
+Version: 2.0.20170421-3
+Depends: libc, iptables, libip4tc2, libuuid1
+License: BSD-3-Clause
+Section: net
+Architecture: aarch64_cortex-a53
+Installed-Size: 57813
+Filename: miniupnpd_2.0.20170421-3_aarch64_cortex-a53.ipk
+Size: 58703
+SHA256sum: a696f7637be1d0589c4ff13545307a0e1ecfc40b6c9cb34d23a252cb0bbac683
+Description:  Lightweight UPnP IGD, NAT-PMP & PCP daemon
+
+Package: mwan3
+Version: 2.8.12-1
+Depends: libc, ip, ipset, iptables, iptables-mod-conntrack-extra, iptables-mod-ipopt, jshn
+License: GPL-2.0
+Section: net
+Architecture: all
+Installed-Size: 13694
+Filename: mwan3_2.8.12-1_all.ipk
+Size: 14708
+SHA256sum: 0ae67e0408fc8b7dc051c679d9f0d08b524ce1a12c404a3365c8f5c6d585cc99
+Description:  Hotplug script which makes configuration of multiple WAN interfaces simple
+ and manageable. With loadbalancing/failover support for up to 250 wan
+ interfaces, connection tracking and an easy to manage traffic ruleset.
+
+Package: nlbwmon
+Version: 2021-09-01-d82c910c-1
+Depends: libc, libubox20240329, libnl-tiny2023-07-01, zlib, kmod-nf-conntrack-netlink
+License: ISC
+Section: net
+Architecture: aarch64_cortex-a53
+Installed-Size: 21771
+Filename: nlbwmon_2021-09-01-d82c910c-1_aarch64_cortex-a53.ipk
+Size: 22429
+SHA256sum: 07ef3a52a80f288eccc08373b144501a68b265f123c6a84d1337f083ad754be1
+Description:  OpenWrt Traffic Usage Monitor
+
+Package: p910nd
+Version: 0.97-9
+Depends: libc
+License: GPLv2
+Section: net
+Architecture: aarch64_cortex-a53
+Installed-Size: 7328
+Filename: p910nd_0.97-9_aarch64_cortex-a53.ipk
+Size: 8215
+SHA256sum: 4c19406810b787f53abaae1f519c7d85770afa38966fc212880ae0620b20ec90
+Description:  p910nd is a small daemon that copies any data received on
+ the port it is listening on to the corresponding printer
+ port. It is primarily intended for diskless Linux hosts
+ running as printer drivers but there is no reason why it
+ could not be used on diskful hosts. Port 9100 is copied
+ to /dev/lp0, 9101 to /dev/lp1 and 9102 to /dev/lp2. The
+ default is port 9100 to /dev/lp0.
+
+Package: rrdtool1
+Version: 1.0.50-5
+Depends: libc, librrd1
+Section: utils
+Architecture: aarch64_cortex-a53
+Installed-Size: 11445
+Filename: rrdtool1_1.0.50-5_aarch64_cortex-a53.ipk
+Size: 12340
+SHA256sum: 805340a8728cd02503e7866e220eac9c51846d21d913106bbc5cd1a2a30d5d18
+Description:  RRD is the Acronym for Round Robin Database. RRD is a system to store and
+ display time-series data (i.e. network bandwidth, machine-room temperature,
+ server load average). It stores the data in a very compact way that will
+ not expand over time, and it presents useful graphs by processing the data
+ to enforce a certain data density. It can be used either via simple wrapper
+ scripts (from shell or Perl) or via frontends that poll network devices and
+ put friendly user interface on it.
+ 
+ This is version 1.0.x with cgilib-0.4, gd1.3 and libpng-1.0.9 linked into
+ librrd.so. The library is much smaller compared to the 1.2.x version with
+ separate dynamic linked libraries.
+ This package contains command line tools used to manage RRDs.
+
+Package: ruby-bigdecimal
+Version: 3.1.3-1
+Depends: libc, ruby
+License: BSD-2-Clause
+Section: lang
+CPE-ID: cpe:/a:ruby-lang:ruby
+Architecture: aarch64_cortex-a53
+Installed-Size: 43500
+Filename: ruby-bigdecimal_3.1.3-1_aarch64_cortex-a53.ipk
+Size: 44127
+SHA256sum: f1812a36099451259901e63aa358cb7c5dfeba39b4a25870421437f06275344c
+Description:  This package contains the ruby Arbitrary-precision decimal floating-point library.
+ 
+ Provides:
+ 
+ - /usr/lib/ruby/3.1/*/bigdecimal.so 
+ - /usr/lib/ruby/3.1/bigdecimal/ 
+ - /usr/lib/ruby/3.1/bigdecimal.rb 
+ - /usr/lib/ruby/gems/3.1/specifications/default/bigdecimal-*.gemspec
+ 
+
+Package: ruby-date
+Version: 3.1.3-1
+Depends: libc, ruby
+License: BSD-2-Clause
+Section: lang
+CPE-ID: cpe:/a:ruby-lang:ruby
+Architecture: aarch64_cortex-a53
+Installed-Size: 62527
+Filename: ruby-date_3.1.3-1_aarch64_cortex-a53.ipk
+Size: 63335
+SHA256sum: f79ee1ac000d13625f62175739c15fec6448b3019d62d060f1ad163c59418239
+Description:  This package contains the ruby Comparable module for handling dates.
+ 
+ Provides:
+ 
+ - /usr/lib/ruby/3.1/date.rb 
+ - /usr/lib/ruby/3.1/*/date_core.so 
+ - /usr/lib/ruby/gems/3.1/specifications/default/date-*.gemspec
+ 
+
+Package: ruby-digest
+Version: 3.1.3-1
+Depends: libc, ruby
+License: BSD-2-Clause
+Section: lang
+CPE-ID: cpe:/a:ruby-lang:ruby
+Architecture: aarch64_cortex-a53
+Installed-Size: 30283
+Filename: ruby-digest_3.1.3-1_aarch64_cortex-a53.ipk
+Size: 30105
+SHA256sum: 38d0bbcfc96312f979e116926bdeb830080055c82d925df1bb3c3a7532a142aa
+Description:  Provides digest* files. Can be configured to use OpenSSL or
+ bundled hash functions.
+ 
+ Provides:
+ 
+ - /usr/lib/ruby/3.1/digest 
+ - /usr/lib/ruby/3.1/digest.rb 
+ - /usr/lib/ruby/3.1/*/digest.so 
+ - /usr/lib/ruby/3.1/*/digest/* 
+ - /usr/lib/ruby/gems/3.1/specifications/default/digest-*.gemspec
+ 
+
+Package: ruby-enc
+Version: 3.1.3-1
+Depends: libc, ruby
+License: BSD-2-Clause
+Section: lang
+CPE-ID: cpe:/a:ruby-lang:ruby
+Architecture: aarch64_cortex-a53
+Installed-Size: 16683
+Filename: ruby-enc_3.1.3-1_aarch64_cortex-a53.ipk
+Size: 16531
+SHA256sum: 7b3c83297f79c5b5bc35643b22899371522cd3853906c79ef531bef8a09fd847
+Description:  This package contains the ruby character re-coding library charset (small subset).
+ 
+ Provides:
+ 
+ - /usr/lib/ruby/3.1/*/enc/encdb.so 
+ - /usr/lib/ruby/3.1/*/enc/iso_8859_1.so 
+ - /usr/lib/ruby/3.1/*/enc/utf_*.so 
+ - /usr/lib/ruby/3.1/*/enc/euc_jp.so
+ 
+
+Package: ruby-forwardable
+Version: 3.1.3-1
+Depends: libc, ruby
+License: BSD-2-Clause
+Section: lang
+CPE-ID: cpe:/a:ruby-lang:ruby
+Architecture: aarch64_cortex-a53
+Installed-Size: 3792
+Filename: ruby-forwardable_3.1.3-1_aarch64_cortex-a53.ipk
+Size: 4668
+SHA256sum: fc991ee2437b8c8b068497c800b7f40ed7345993977a126c6bc1b1f69bc11059
+Description:  This package contains the ruby delegation of methods to a object.
+ 
+ Provides:
+ 
+ - /usr/lib/ruby/3.1/forwardable.rb 
+ - /usr/lib/ruby/3.1/forwardable 
+ - /usr/lib/ruby/gems/3.1/specifications/default/forwardable-*.gemspec
+ 
+
+Package: ruby-pstore
+Version: 3.1.3-1
+Depends: libc, ruby, ruby-digest, ruby-enc
+License: BSD-2-Clause
+Section: lang
+CPE-ID: cpe:/a:ruby-lang:ruby
+Architecture: aarch64_cortex-a53
+Installed-Size: 5462
+Filename: ruby-pstore_3.1.3-1_aarch64_cortex-a53.ipk
+Size: 6326
+SHA256sum: f80eee807359881dafbed88ab664328ae10d2759f5d4efef5fb1b4f022cceb7f
+Description:  This package contains the ruby file based persistence.
+ 
+ Provides:
+ 
+ - /usr/lib/ruby/3.1/pstore.rb 
+ - /usr/lib/ruby/3.1/pstore/ 
+ - /usr/lib/ruby/gems/3.1/gems/pstore-*/ 
+ - /usr/lib/ruby/gems/3.1/specifications/default/pstore-*.gemspec
+ 
+
+Package: ruby-psych
+Version: 3.1.3-1
+Depends: libc, ruby, ruby-bigdecimal, ruby-date, ruby-enc, ruby-forwardable, ruby-stringio, ruby-strscan, libyaml
+License: BSD-2-Clause
+Section: lang
+CPE-ID: cpe:/a:ruby-lang:ruby
+Architecture: aarch64_cortex-a53
+Installed-Size: 34274
+Filename: ruby-psych_3.1.3-1_aarch64_cortex-a53.ipk
+Size: 35111
+SHA256sum: 17facf86e94a7132b6880956a5a4184d20c6d26012cebe3d54db421632bc8e9c
+Description:  This package contains the ruby YAML parser and emitter.
+ 
+ Provides:
+ 
+ - /usr/lib/ruby/3.1/psych 
+ - /usr/lib/ruby/3.1/psych.rb 
+ - /usr/lib/ruby/3.1/*/psych.so 
+ - /usr/lib/ruby/gems/3.1/specifications/default/psych-*.gemspec
+ 
+
+Package: ruby-stringio
+Version: 3.1.3-1
+Depends: libc, ruby
+License: BSD-2-Clause
+Section: lang
+CPE-ID: cpe:/a:ruby-lang:ruby
+Architecture: aarch64_cortex-a53
+Installed-Size: 12659
+Filename: ruby-stringio_3.1.3-1_aarch64_cortex-a53.ipk
+Size: 13369
+SHA256sum: d7fb9767fdb73c93fcf8a6027fb7675d212b1d88cc5efae3c41b868810e9b065
+Description:  This package contains the ruby Pseudo `IO` class from/to `String`.
+ 
+ Provides:
+ 
+ - /usr/lib/ruby/3.1/*/stringio.so 
+ - /usr/lib/ruby/gems/3.1/specifications/default/stringio-*.gemspec
+ 
+
+Package: ruby-strscan
+Version: 3.1.3-1
+Depends: libc, ruby
+License: BSD-2-Clause
+Section: lang
+CPE-ID: cpe:/a:ruby-lang:ruby
+Architecture: aarch64_cortex-a53
+Installed-Size: 9092
+Filename: ruby-strscan_3.1.3-1_aarch64_cortex-a53.ipk
+Size: 9843
+SHA256sum: b65c4b1a21c8edf8f743af2cc3043db6728c991e4ae345455f2c19172b4dc5fe
+Description:  This package contains the ruby Lexical scanning operations on a String.
+ 
+ Provides:
+ 
+ - /usr/lib/ruby/3.1/*/strscan.so 
+ - /usr/lib/ruby/gems/3.1/specifications/default/strscan-*.gemspec
+ 
+
+Package: ruby-yaml
+Version: 3.1.3-1
+Depends: libc, ruby, ruby-pstore, ruby-psych
+License: BSD-2-Clause
+Section: lang
+CPE-ID: cpe:/a:ruby-lang:ruby
+Architecture: aarch64_cortex-a53
+Installed-Size: 4352
+Filename: ruby-yaml_3.1.3-1_aarch64_cortex-a53.ipk
+Size: 5201
+SHA256sum: 2e72213c2ce616aa3ad5c497dc4c2acf9b335450e3487cb433b539ef894ae1b4
+Description:  This package contains the ruby YAML toolkit.
+ 
+ Provides:
+ 
+ - /usr/lib/ruby/3.1/yaml 
+ - /usr/lib/ruby/3.1/yaml.rb 
+ - /usr/lib/ruby/gems/3.1/gems/yaml-*/ 
+ - /usr/lib/ruby/gems/3.1/specifications/default/yaml-*.gemspec
+ 
+
+Package: ruby
+Version: 3.1.3-1
+Depends: libc, libruby3.1
+License: BSD-2-Clause
+Section: lang
+CPE-ID: cpe:/a:ruby-lang:ruby
+Architecture: aarch64_cortex-a53
+Installed-Size: 1989
+Filename: ruby_3.1.3-1_aarch64_cortex-a53.ipk
+Size: 2795
+SHA256sum: f6a7827e27aa92496298c251ab3c12e3779c87a845922807c746c8a874942f9f
+Description:  Ruby is the interpreted scripting language for quick and easy
+ object-oriented programming.  It has many features to process text files
+ and to do system management tasks (as in perl).  It is simple,
+ straight-forward, and extensible.
+ 
+
+Package: tar
+Version: 1.34-1
+Depends: xz, libc, libacl, libattr, bzip2
+Alternatives: 300:/bin/tar:/usr/libexec/tar-gnu
+License: GPL-3.0-or-later
+Section: utils
+CPE-ID: cpe:/a:gnu:tar
+Architecture: aarch64_cortex-a53
+Installed-Size: 202753
+Filename: tar_1.34-1_aarch64_cortex-a53.ipk
+Size: 203088
+SHA256sum: 22cebfd324e6dd904d012be93c725ad728a1dbdc4d56718f5c5636f31ad12ec2
+Description:  Tar is a program for packaging a set of files as a
+ single archive in tar format.
+
+Package: ttyd
+Version: 1.6.3-3
+Depends: libc, libopenssl3, libjson-c5, libuv1, zlib, libwebsockets-full
+License: MIT
+Section: utils
+Architecture: aarch64_cortex-a53
+Installed-Size: 273632
+Filename: ttyd_1.6.3-3_aarch64_cortex-a53.ipk
+Size: 274241
+SHA256sum: eb19f88b6cd6bc8b0b96a92912610e606bff2265dc78f278a1307e2ab26ea91c
+Description:  ttyd is a command-line tool for sharing terminal over the web.
+
+Package: unzip
+Version: 6.0-8
+Depends: libc
+License: BSD-4-Clause
+Section: utils
+CPE-ID: cpe:/a:info-zip:unzip
+Architecture: aarch64_cortex-a53
+Installed-Size: 117368
+Filename: unzip_6.0-8_aarch64_cortex-a53.ipk
+Size: 117746
+SHA256sum: 790df35ee6e15ceffffbefe39642b3becdf79a2e65990a8eeda0f1bda27c3e5b
+Description:  InfoZIP's unzip program. With the exception of multi-volume archives
+ (ie, .ZIP files that are split across several disks using PKZIP's /& option),
+ this can handle any file produced either by PKZIP, or the corresponding
+ InfoZIP zip program.
+
+Package: wget-ssl
+Version: 1.21.3-1
+Depends: libc, libpcre, zlib, libopenssl3, librt
+Provides: gnu-wget, wget
+Alternatives: 300:/usr/bin/wget:/usr/libexec/wget-ssl
+License: GPL-3.0-or-later
+Section: net
+CPE-ID: cpe:/a:gnu:wget
+Architecture: aarch64_cortex-a53
+Installed-Size: 216201
+Filename: wget-ssl_1.21.3-1_aarch64_cortex-a53.ipk
+Size: 216596
+SHA256sum: 0628bbbcd78a30e53f2a4310a1f27744dd3b38a615bfd49aaab2c8e7fb6552d1
+Description:  Wget is a network utility to retrieve files from the Web using http
+ and ftp, the two most widely used Internet protocols. It works
+ non-interactively, so it will work in the background, after having
+ logged off. The program supports recursive retrieval of web-authoring
+ pages as well as ftp sites -- you can use wget to make mirrors of
+ archives and home pages or to travel the Web like a WWW robot.
+ This package is built with SSL support.
+
+Package: xz-utils
+Version: 5.4.1-1
+Depends: libc
+License: Public-Domain LGPL-2.1-or-later GPL-2.0-or-later GPL-3.0-or-later
+Section: utils
+CPE-ID: cpe:/a:tukaani:xz
+Architecture: aarch64_cortex-a53
+Installed-Size: 96
+Filename: xz-utils_5.4.1-1_aarch64_cortex-a53.ipk
+Size: 837
+SHA256sum: 070a326c17c7df0b30d1838ae8a48ecf82e6fe37f25c0b9df9ba7f3c36dced26
+Description:  XZ Utils (meta)
+
+Package: xz
+Version: 5.4.1-1
+Depends: libc, xz-utils, liblzma
+Alternatives: 300:/usr/bin/xz:/usr/libexec/xz-lzmautils, 300:/usr/bin/lzcat:/usr/libexec/xz-lzmautils, 300:/usr/bin/lzma:/usr/libexec/xz-lzmautils, 300:/usr/bin/unlzma:/usr/libexec/xz-lzmautils, 300:/usr/bin/unxz:/usr/libexec/xz-lzmautils, 300:/usr/bin/xzcat:/usr/libexec/xz-lzmautils
+License: Public-Domain LGPL-2.1-or-later GPL-2.0-or-later GPL-3.0-or-later
+Section: utils
+CPE-ID: cpe:/a:tukaani:xz
+Architecture: aarch64_cortex-a53
+Installed-Size: 28995
+Filename: xz_5.4.1-1_aarch64_cortex-a53.ipk
+Size: 29779
+SHA256sum: 60574a57c35ea0356ad7a1395a687e64a9f1b205d183262b7e19ac67e30cc5ae
+Description:  Contains: xz  lzcat lzma unlzma unxz xzcat
+
+Package: yq
+Version: 4.33.1-1
+Depends: libc
+License: MIT
+Section: utils
+Architecture: aarch64_cortex-a53
+Installed-Size: 3479185
+Filename: yq_4.33.1-1_aarch64_cortex-a53.ipk
+Size: 3470622
+SHA256sum: b4505220fe49e3b351cb0a44e78d02f7e480641684b2849311fba720f5049f2d
+Description:  The aim of the project is to be the jq or sed of yaml files.
+
